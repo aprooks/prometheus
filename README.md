@@ -1,5 +1,9 @@
 [![Build Status](https://travis-ci.org/vegasbrianc/prometheus.svg?branch=version-2)](https://travis-ci.org/vegasbrianc/prometheus)
 
+# This fork
+
+is a clone of vegasbrianc/prometheus but with prometheus gateway enabled to test jobs metrics reporting
+
 # Contents
 
 - Introduction
